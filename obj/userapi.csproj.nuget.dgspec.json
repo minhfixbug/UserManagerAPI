@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\UserManager\\userapi\\userapi.csproj": {}
+    "C:\\Users\\Admin\\UserManagerAPI\\userapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\UserManager\\userapi\\userapi.csproj": {
+    "C:\\Users\\Admin\\UserManagerAPI\\userapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\UserManager\\userapi\\userapi.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\UserManagerAPI\\userapi.csproj",
         "projectName": "userapi",
-        "projectPath": "C:\\Users\\Admin\\UserManager\\userapi\\userapi.csproj",
+        "projectPath": "C:\\Users\\Admin\\UserManagerAPI\\userapi.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\UserManager\\userapi\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\UserManagerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
